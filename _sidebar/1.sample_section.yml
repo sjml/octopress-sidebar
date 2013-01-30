@@ -1,0 +1,10 @@
+---
+name: Google
+url: http://google.com
+---
+name: Yahoo!
+url: http://www.yahoo.com
+order: 1
+---
+name: DuckDuckGo
+url: http://duckduckgo.com
